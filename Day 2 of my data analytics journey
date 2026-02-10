@@ -1,0 +1,9 @@
+Today I learned about descriptive statistics and how they help summarize data in a meaningful way. I understood that descriptive statistics are grouped into two main areas: measures of central tendency and measures of spread. Instead of just looking at raw numbers, these measures help explain what is typical in a dataset and how much the values vary.
+
+I learned that measures of central tendency include the mean, median, and mode. The mean gives the average but can be affected by extreme values. The median shows the middle value and is more reliable when outliers are present, while the mode highlights the most common value in a dataset. Seeing how each measure tells a slightly different story helped me understand why relying on only one can be misleading.
+
+I also learned that knowing the average is not enough. Measures of spread like range, standard deviation, and interquartile range explain how consistent or inconsistent the data is. Range shows the gap between the highest and lowest values, standard deviation reflects how much values differ from the average, and IQR focuses on the middle portion of the data while ignoring extremes.
+
+Overall, this topic helped me realize that data analysis is not just about calculating numbers but about interpreting them correctly. I’m still learning when to choose one measure over another, but this session made the importance of context much clearer to me.
+
+#DataAnalyticsLockedIn
